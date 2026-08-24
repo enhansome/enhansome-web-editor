@@ -20,7 +20,7 @@
                 "last_commit": "2025-07-25T06:09:23Z",
                 "owner": "slab",
                 "repo": "quill",
-                "stars": 47309
+                "stars": 47311
               }
             },
             {
@@ -32,10 +32,10 @@
                 "archived": false,
                 "id": 145464445,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:05:01Z",
+                "last_commit": "2026-08-24T10:21:29Z",
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38135
+                "stars": 38144
               }
             },
             {
@@ -50,7 +50,7 @@
                 "last_commit": "2026-08-04T11:55:32Z",
                 "owner": "codex-team",
                 "repo": "editor.js",
-                "stars": 31903
+                "stars": 31902
               }
             },
             {
@@ -62,10 +62,10 @@
                 "archived": false,
                 "id": 318341089,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T14:34:40Z",
+                "last_commit": "2026-08-24T02:50:54Z",
                 "owner": "facebook",
                 "repo": "lexical",
-                "stars": 23787
+                "stars": 23790
               }
             },
             {
@@ -80,7 +80,7 @@
                 "last_commit": "2024-10-11T07:11:30Z",
                 "owner": "wangeditor-team",
                 "repo": "wangEditor",
-                "stars": 18362
+                "stars": 18361
               }
             },
             {
@@ -110,7 +110,7 @@
                 "last_commit": "2024-10-24T07:27:48Z",
                 "owner": "yabwe",
                 "repo": "medium-editor",
-                "stars": 16105
+                "stars": 16104
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2024-05-12T17:09:57Z",
                 "owner": "jaredreich",
                 "repo": "pell",
-                "stars": 12047
+                "stars": 12046
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-08-22T01:59:18Z",
                 "owner": "Hufe921",
                 "repo": "canvas-editor",
-                "stars": 5139
+                "stars": 5145
               }
             },
             {
@@ -215,7 +215,7 @@
                 "last_commit": "2024-02-25T03:52:36Z",
                 "owner": "mycolorway",
                 "repo": "simditor",
-                "stars": 5005
+                "stars": 5004
               }
             },
             {
@@ -272,7 +272,7 @@
                 "archived": false,
                 "id": 715366,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T10:45:36Z",
+                "last_commit": "2026-08-24T11:51:24Z",
                 "owner": "alohaeditor",
                 "repo": "Aloha-Editor",
                 "stars": 2488
@@ -290,7 +290,7 @@
                 "last_commit": "2026-08-17T10:30:02Z",
                 "owner": "JiHong88",
                 "repo": "suneditor",
-                "stars": 2004
+                "stars": 2005
               }
             },
             {
@@ -399,10 +399,10 @@
                 "archived": false,
                 "id": 145464445,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:05:01Z",
+                "last_commit": "2026-08-24T10:21:29Z",
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38135
+                "stars": 38144
               }
             },
             {
@@ -496,10 +496,10 @@
                 "archived": false,
                 "id": 145464445,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:05:01Z",
+                "last_commit": "2026-08-24T10:21:29Z",
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38135
+                "stars": 38144
               }
             },
             {
@@ -541,10 +541,10 @@
                 "archived": false,
                 "id": 225260962,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T10:40:46Z",
+                "last_commit": "2026-08-24T13:51:08Z",
                 "owner": "udecode",
                 "repo": "plate",
-                "stars": 16525
+                "stars": 16528
               }
             },
             {
@@ -641,7 +641,7 @@
                 "last_commit": "2026-04-15T11:09:18Z",
                 "owner": "summernote",
                 "repo": "summernote",
-                "stars": 11834
+                "stars": 11836
               }
             },
             {
@@ -744,7 +744,7 @@
                 "last_commit": "2026-08-22T08:56:20Z",
                 "owner": "Milkdown",
                 "repo": "milkdown",
-                "stars": 11846
+                "stars": 11848
               }
             },
             {
@@ -804,7 +804,7 @@
                 "last_commit": "2023-10-06T06:15:36Z",
                 "owner": "mdnice",
                 "repo": "markdown-nice",
-                "stars": 4674
+                "stars": 4673
               }
             },
             {
@@ -886,7 +886,7 @@
                 "last_commit": "2024-04-26T08:55:55Z",
                 "owner": "pandao",
                 "repo": "editor.md",
-                "stars": 14317
+                "stars": 14318
               }
             }
           ]
@@ -908,7 +908,7 @@
                 "last_commit": "2026-08-22T08:56:20Z",
                 "owner": "Milkdown",
                 "repo": "milkdown",
-                "stars": 11846
+                "stars": 11848
               }
             },
             {
@@ -960,7 +960,7 @@
                 "last_commit": "2025-04-21T10:10:50Z",
                 "owner": "remarkjs",
                 "repo": "react-markdown",
-                "stars": 15859
+                "stars": 15862
               }
             },
             {
@@ -975,7 +975,7 @@
                 "last_commit": "2026-08-22T08:56:20Z",
                 "owner": "Milkdown",
                 "repo": "milkdown",
-                "stars": 11846
+                "stars": 11848
               }
             },
             {
@@ -990,7 +990,7 @@
                 "last_commit": "2026-08-12T02:47:48Z",
                 "owner": "antdigital-ai",
                 "repo": "agentic-ui",
-                "stars": 222
+                "stars": 223
               }
             }
           ]
@@ -1018,7 +1018,7 @@
                 "last_commit": "2026-08-22T16:06:37Z",
                 "owner": "markedjs",
                 "repo": "marked",
-                "stars": 37083
+                "stars": 37086
               }
             },
             {
@@ -1033,7 +1033,7 @@
                 "last_commit": "2026-08-13T00:31:06Z",
                 "owner": "markdown-it",
                 "repo": "markdown-it",
-                "stars": 21836
+                "stars": 21838
               }
             },
             {
@@ -1045,10 +1045,10 @@
                 "archived": false,
                 "id": 75547,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T23:35:33Z",
+                "last_commit": "2026-08-24T04:34:45Z",
                 "owner": "showdownjs",
                 "repo": "showdown",
-                "stars": 14868
+                "stars": 14869
               }
             },
             {
@@ -1063,7 +1063,7 @@
                 "last_commit": "2026-06-23T22:17:20Z",
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11398
+                "stars": 11399
               }
             },
             {
@@ -1151,7 +1151,7 @@
                 "archived": false,
                 "id": 1043741796,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T04:54:23Z",
+                "last_commit": "2026-08-24T12:35:32Z",
                 "owner": "serkodev",
                 "repo": "markdown-exit",
                 "stars": 1359
@@ -1203,10 +1203,10 @@
                 "archived": false,
                 "id": 183616214,
                 "language": "Go",
-                "last_commit": "2026-08-23T08:16:32Z",
+                "last_commit": "2026-08-24T07:46:04Z",
                 "owner": "yuin",
                 "repo": "goldmark",
-                "stars": 4955
+                "stars": 4956
               }
             },
             {
@@ -1240,10 +1240,10 @@
                 "archived": false,
                 "id": 692146,
                 "language": "Python",
-                "last_commit": "2026-08-08T22:18:06Z",
+                "last_commit": "2026-08-24T13:13:39Z",
                 "owner": "Python-Markdown",
                 "repo": "markdown",
-                "stars": 4238
+                "stars": 4239
               }
             },
             {
@@ -1280,7 +1280,7 @@
                 "last_commit": "2026-02-18T15:50:34Z",
                 "owner": "erusev",
                 "repo": "parsedown",
-                "stars": 15056
+                "stars": 15057
               }
             },
             {
@@ -1295,7 +1295,7 @@
                 "last_commit": "2025-06-17T23:36:24Z",
                 "owner": "michelf",
                 "repo": "php-markdown",
-                "stars": 3464
+                "stars": 3463
               }
             }
           ]
@@ -1339,7 +1339,7 @@
                 "last_commit": "2026-08-18T16:02:42Z",
                 "owner": "xoofx",
                 "repo": "markdig",
-                "stars": 5305
+                "stars": 5306
               }
             }
           ]
@@ -1362,7 +1362,7 @@
             "last_commit": "2026-08-18T18:33:20Z",
             "owner": "microsoft",
             "repo": "monaco-editor",
-            "stars": 46577
+            "stars": 46582
           }
         },
         {
@@ -1377,7 +1377,7 @@
             "last_commit": "2026-08-18T17:35:36Z",
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44326
+            "stars": 44331
           }
         },
         {
@@ -1392,7 +1392,7 @@
             "last_commit": "2026-04-16T15:39:18Z",
             "owner": "codemirror",
             "repo": "codemirror5",
-            "stars": 27234
+            "stars": 27235
           }
         },
         {
@@ -1422,7 +1422,7 @@
             "last_commit": "2026-07-15T11:28:12Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13635
+            "stars": 13637
           }
         },
         {
@@ -1472,7 +1472,7 @@
                 "last_commit": "2026-08-23T03:09:39Z",
                 "owner": "doocs",
                 "repo": "md",
-                "stars": 13233
+                "stars": 13234
               }
             },
             {
@@ -1487,7 +1487,7 @@
                 "last_commit": "2020-05-06T22:37:29Z",
                 "owner": "jbt",
                 "repo": "markdown-editor",
-                "stars": 2875
+                "stars": 2874
               }
             }
           ]
@@ -1546,7 +1546,7 @@
                 "last_commit": "2026-04-20T22:20:02Z",
                 "owner": "suren-atoyan",
                 "repo": "monaco-react",
-                "stars": 4732
+                "stars": 4734
               }
             },
             {
@@ -1573,7 +1573,7 @@
                 "archived": false,
                 "id": 27292141,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T01:52:51Z",
+                "last_commit": "2026-08-24T01:53:37Z",
                 "owner": "securingsincity",
                 "repo": "react-ace",
                 "stars": 4205
@@ -1598,7 +1598,7 @@
                 "last_commit": "2026-08-05T17:53:30Z",
                 "owner": "SVG-Edit",
                 "repo": "svgedit",
-                "stars": 7800
+                "stars": 7801
               }
             },
             {
@@ -1613,7 +1613,7 @@
                 "last_commit": "2024-05-07T19:07:07Z",
                 "owner": "methodofaction",
                 "repo": "Method-Draw",
-                "stars": 3005
+                "stars": 3004
               }
             }
           ]
@@ -1648,7 +1648,7 @@
             "archived": false,
             "id": 279588420,
             "language": "TypeScript",
-            "last_commit": "2026-07-21T06:46:15Z",
+            "last_commit": "2026-08-24T03:08:59Z",
             "owner": "cloydlau",
             "repo": "json-editor-vue",
             "stars": 692
@@ -1677,7 +1677,7 @@
                 "last_commit": "2026-08-11T13:16:44Z",
                 "owner": "GrapesJS",
                 "repo": "grapesjs",
-                "stars": 26159
+                "stars": 26161
               }
             },
             {
@@ -1692,7 +1692,7 @@
                 "last_commit": "2026-07-01T16:47:27Z",
                 "owner": "givanz",
                 "repo": "VvvebJs",
-                "stars": 8651
+                "stars": 8652
               }
             }
           ]
@@ -1714,7 +1714,7 @@
                 "last_commit": "2026-08-22T21:27:32Z",
                 "owner": "excalidraw",
                 "repo": "excalidraw",
-                "stars": 130321
+                "stars": 130385
               }
             },
             {
@@ -1786,6 +1786,90 @@
       "description": null,
       "items": [
         {
+          "node_type": "group",
+          "title": "Pure JavaScript",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "svgedit",
+              "description": "★ 7576 - Powerful SVG-Editor for your browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21611548,
+                "language": "JavaScript",
+                "last_commit": "2026-08-05T17:53:30Z",
+                "owner": "SVG-Edit",
+                "repo": "svgedit",
+                "stars": 7801
+              }
+            }
+          ]
+        }
+      ],
+      "title": "SVG editor"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "React",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-data-grid",
+              "description": "★ 7608 - Excel-like grid component built with React, with editors, keyboard navigation, copy & paste, and the like.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31764022,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T01:46:21Z",
+                "owner": "Comcast",
+                "repo": "react-data-grid",
+                "stars": 7668
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Table editor"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Vue",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Umo Editor",
+              "description": "★ 1430 - A localized open-source document editor suitable for Chinese use based on Vue3. Umo Editor provides comprehensive document editing capabilities, supports Markdown syntax, basic rich text editing functions, supports multiple node types for inserting multiple formats, provides various types of practical tools, and supports setting page styles and exporting multiple types of formats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 798599836,
+                "language": "Vue",
+                "last_commit": "2026-08-20T04:51:40Z",
+                "owner": "umodoc",
+                "repo": "editor",
+                "stars": 1577
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Document editor"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "github-markdown-css",
           "description": "★ 8819 - The minimal amount of CSS to replicate the GitHub Markdown style.",
@@ -1812,7 +1896,7 @@
             "last_commit": "2023-07-30T09:24:10Z",
             "owner": "younghz",
             "repo": "Markdown",
-            "stars": 4018
+            "stars": 4019
           }
         }
       ],
@@ -1820,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:31:18.450Z",
+    "last_updated": "2026-08-24T14:15:25.024Z",
     "original_repository": "liuzi6612/awesome-web-editor",
     "original_repository_id": 142664655,
     "original_repository_sha": "886dee25eb75645d6c90f8ef135b5b3716b035f4",
