@@ -20,7 +20,7 @@
                 "last_commit": "2025-07-25T06:09:23Z",
                 "owner": "slab",
                 "repo": "quill",
-                "stars": 47312
+                "stars": 47316
               }
             },
             {
@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-24T10:21:29Z",
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38152
+                "stars": 38154
               }
             },
             {
@@ -62,7 +62,7 @@
                 "archived": false,
                 "id": 318341089,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T20:31:48Z",
+                "last_commit": "2026-08-25T02:47:24Z",
                 "owner": "facebook",
                 "repo": "lexical",
                 "stars": 23791
@@ -80,7 +80,7 @@
                 "last_commit": "2024-10-11T07:11:30Z",
                 "owner": "wangeditor-team",
                 "repo": "wangEditor",
-                "stars": 18360
+                "stars": 18358
               }
             },
             {
@@ -95,7 +95,7 @@
                 "last_commit": "2026-08-17T01:15:12Z",
                 "owner": "tinymce",
                 "repo": "tinymce",
-                "stars": 16280
+                "stars": 16279
               }
             },
             {
@@ -140,7 +140,7 @@
                 "last_commit": "2026-08-21T12:48:10Z",
                 "owner": "ckeditor",
                 "repo": "ckeditor5",
-                "stars": 10480
+                "stars": 10479
               }
             },
             {
@@ -200,7 +200,7 @@
                 "last_commit": "2026-08-22T01:59:18Z",
                 "owner": "Hufe921",
                 "repo": "canvas-editor",
-                "stars": 5145
+                "stars": 5146
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2026-03-14T09:00:46Z",
                 "owner": "aieditor-team",
                 "repo": "AiEditor",
-                "stars": 1774
+                "stars": 1773
               }
             },
             {
@@ -402,7 +402,7 @@
                 "last_commit": "2026-08-24T10:21:29Z",
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38152
+                "stars": 38154
               }
             },
             {
@@ -417,7 +417,7 @@
                 "last_commit": "2024-05-17T09:28:34Z",
                 "owner": "surmon-china",
                 "repo": "vue-quill-editor",
-                "stars": 7400
+                "stars": 7399
               }
             },
             {
@@ -499,7 +499,7 @@
                 "last_commit": "2026-08-24T10:21:29Z",
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38152
+                "stars": 38154
               }
             },
             {
@@ -511,10 +511,10 @@
                 "archived": false,
                 "id": 61412022,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T20:38:00Z",
+                "last_commit": "2026-08-25T06:07:56Z",
                 "owner": "ianstormtaylor",
                 "repo": "slate",
-                "stars": 31746
+                "stars": 31747
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2023-02-06T15:35:05Z",
                 "owner": "facebookarchive",
                 "repo": "draft-js",
-                "stars": 22599
+                "stars": 22598
               }
             },
             {
@@ -741,7 +741,7 @@
                 "archived": false,
                 "id": 345922282,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T08:56:20Z",
+                "last_commit": "2026-08-25T04:48:12Z",
                 "owner": "Milkdown",
                 "repo": "milkdown",
                 "stars": 11850
@@ -759,7 +759,7 @@
                 "last_commit": "2024-06-11T05:28:19Z",
                 "owner": "sparksuite",
                 "repo": "simplemde-markdown-editor",
-                "stars": 10143
+                "stars": 10142
               }
             },
             {
@@ -849,7 +849,7 @@
                 "last_commit": "2020-10-01T12:32:44Z",
                 "owner": "benweet",
                 "repo": "stackedit.js",
-                "stars": 1166
+                "stars": 1167
               }
             },
             {
@@ -864,7 +864,7 @@
                 "last_commit": "2026-08-21T10:35:47Z",
                 "owner": "unjs",
                 "repo": "md4x",
-                "stars": 412
+                "stars": 411
               }
             }
           ]
@@ -905,7 +905,7 @@
                 "archived": false,
                 "id": 345922282,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T08:56:20Z",
+                "last_commit": "2026-08-25T04:48:12Z",
                 "owner": "Milkdown",
                 "repo": "milkdown",
                 "stars": 11850
@@ -972,7 +972,7 @@
                 "archived": false,
                 "id": 345922282,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T08:56:20Z",
+                "last_commit": "2026-08-25T04:48:12Z",
                 "owner": "Milkdown",
                 "repo": "milkdown",
                 "stars": 11850
@@ -1018,7 +1018,7 @@
                 "last_commit": "2026-08-24T16:52:10Z",
                 "owner": "markedjs",
                 "repo": "marked",
-                "stars": 37086
+                "stars": 37087
               }
             },
             {
@@ -1033,7 +1033,7 @@
                 "last_commit": "2026-08-13T00:31:06Z",
                 "owner": "markdown-it",
                 "repo": "markdown-it",
-                "stars": 21840
+                "stars": 21841
               }
             },
             {
@@ -1063,7 +1063,7 @@
                 "last_commit": "2026-06-23T22:17:20Z",
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11399
+                "stars": 11400
               }
             },
             {
@@ -1078,7 +1078,7 @@
                 "last_commit": "2026-07-01T11:01:38Z",
                 "owner": "remarkjs",
                 "repo": "remark",
-                "stars": 8982
+                "stars": 8983
               }
             },
             {
@@ -1169,7 +1169,7 @@
                 "last_commit": "2026-08-21T10:35:47Z",
                 "owner": "unjs",
                 "repo": "md4x",
-                "stars": 412
+                "stars": 411
               }
             }
           ]
@@ -1206,7 +1206,7 @@
                 "last_commit": "2026-08-24T07:46:04Z",
                 "owner": "yuin",
                 "repo": "goldmark",
-                "stars": 4956
+                "stars": 4957
               }
             },
             {
@@ -1280,7 +1280,7 @@
                 "last_commit": "2026-02-18T15:50:34Z",
                 "owner": "erusev",
                 "repo": "parsedown",
-                "stars": 15057
+                "stars": 15058
               }
             },
             {
@@ -1339,7 +1339,7 @@
                 "last_commit": "2026-08-18T16:02:42Z",
                 "owner": "xoofx",
                 "repo": "markdig",
-                "stars": 5306
+                "stars": 5305
               }
             }
           ]
@@ -1359,7 +1359,7 @@
             "archived": false,
             "id": 60630844,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T18:33:20Z",
+            "last_commit": "2026-08-24T22:42:52Z",
             "owner": "microsoft",
             "repo": "monaco-editor",
             "stars": 46582
@@ -1377,7 +1377,7 @@
             "last_commit": "2026-08-18T17:35:36Z",
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44334
+            "stars": 44335
           }
         },
         {
@@ -1392,7 +1392,7 @@
             "last_commit": "2026-04-16T15:39:18Z",
             "owner": "codemirror",
             "repo": "codemirror5",
-            "stars": 27235
+            "stars": 27234
           }
         },
         {
@@ -1422,7 +1422,7 @@
             "last_commit": "2026-08-24T19:32:07Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13637
+            "stars": 13638
           }
         },
         {
@@ -1469,7 +1469,7 @@
                 "archived": false,
                 "id": 218952803,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T03:09:39Z",
+                "last_commit": "2026-08-25T06:09:51Z",
                 "owner": "doocs",
                 "repo": "md",
                 "stars": 13236
@@ -1651,7 +1651,7 @@
             "last_commit": "2026-08-24T03:08:59Z",
             "owner": "cloydlau",
             "repo": "json-editor-vue",
-            "stars": 692
+            "stars": 693
           }
         }
       ],
@@ -1677,7 +1677,7 @@
                 "last_commit": "2026-08-11T13:16:44Z",
                 "owner": "GrapesJS",
                 "repo": "grapesjs",
-                "stars": 26165
+                "stars": 26164
               }
             },
             {
@@ -1692,7 +1692,7 @@
                 "last_commit": "2026-07-01T16:47:27Z",
                 "owner": "givanz",
                 "repo": "VvvebJs",
-                "stars": 8655
+                "stars": 8654
               }
             }
           ]
@@ -1714,7 +1714,7 @@
                 "last_commit": "2026-08-22T21:27:32Z",
                 "owner": "excalidraw",
                 "repo": "excalidraw",
-                "stars": 130416
+                "stars": 130440
               }
             },
             {
@@ -1858,7 +1858,7 @@
                 "last_commit": "2026-08-20T04:51:40Z",
                 "owner": "umodoc",
                 "repo": "editor",
-                "stars": 1577
+                "stars": 1578
               }
             }
           ]
@@ -1896,7 +1896,7 @@
             "last_commit": "2023-07-30T09:24:10Z",
             "owner": "younghz",
             "repo": "Markdown",
-            "stars": 4019
+            "stars": 4020
           }
         }
       ],
@@ -1904,7 +1904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:36:12.917Z",
+    "last_updated": "2026-08-25T06:13:45.327Z",
     "original_repository": "liuzi6612/awesome-web-editor",
     "original_repository_id": 142664655,
     "original_repository_sha": "9e5542420dfb8fe4beae65cb76ef13ac8cf3ea12",
