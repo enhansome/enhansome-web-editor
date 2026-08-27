@@ -20,7 +20,7 @@
                 "last_commit": "2025-07-25T06:09:23Z",
                 "owner": "slab",
                 "repo": "quill",
-                "stars": 47320
+                "stars": 47322
               }
             },
             {
@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-26T14:52:53Z",
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38173
+                "stars": 38180
               }
             },
             {
@@ -50,7 +50,7 @@
                 "last_commit": "2026-08-04T11:55:32Z",
                 "owner": "codex-team",
                 "repo": "editor.js",
-                "stars": 31907
+                "stars": 31910
               }
             },
             {
@@ -62,10 +62,10 @@
                 "archived": false,
                 "id": 318341089,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T02:52:08Z",
+                "last_commit": "2026-08-27T04:14:05Z",
                 "owner": "facebook",
                 "repo": "lexical",
-                "stars": 23798
+                "stars": 23802
               }
             },
             {
@@ -95,7 +95,7 @@
                 "last_commit": "2026-08-17T01:15:12Z",
                 "owner": "tinymce",
                 "repo": "tinymce",
-                "stars": 16280
+                "stars": 16283
               }
             },
             {
@@ -125,7 +125,7 @@
                 "last_commit": "2024-05-12T17:09:57Z",
                 "owner": "jaredreich",
                 "repo": "pell",
-                "stars": 12045
+                "stars": 12046
               }
             },
             {
@@ -137,10 +137,10 @@
                 "archived": false,
                 "id": 28964450,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T11:52:02Z",
+                "last_commit": "2026-08-27T06:28:02Z",
                 "owner": "ckeditor",
                 "repo": "ckeditor5",
-                "stars": 10481
+                "stars": 10482
               }
             },
             {
@@ -197,10 +197,10 @@
                 "archived": false,
                 "id": 427384949,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T15:24:48Z",
+                "last_commit": "2026-08-27T10:41:23Z",
                 "owner": "Hufe921",
                 "repo": "canvas-editor",
-                "stars": 5152
+                "stars": 5155
               }
             },
             {
@@ -290,7 +290,7 @@
                 "last_commit": "2026-08-26T18:49:14Z",
                 "owner": "JiHong88",
                 "repo": "suneditor",
-                "stars": 2006
+                "stars": 2007
               }
             },
             {
@@ -305,7 +305,7 @@
                 "last_commit": "2026-08-22T01:42:49Z",
                 "owner": "xdan",
                 "repo": "jodit",
-                "stars": 1953
+                "stars": 1955
               }
             },
             {
@@ -332,7 +332,7 @@
                 "archived": false,
                 "id": 716968913,
                 "language": "TypeScript",
-                "last_commit": "2026-03-14T09:00:46Z",
+                "last_commit": "2026-08-27T07:13:35Z",
                 "owner": "aieditor-team",
                 "repo": "AiEditor",
                 "stars": 1774
@@ -402,7 +402,7 @@
                 "last_commit": "2026-08-26T14:52:53Z",
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38173
+                "stars": 38180
               }
             },
             {
@@ -499,7 +499,7 @@
                 "last_commit": "2026-08-26T14:52:53Z",
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38173
+                "stars": 38180
               }
             },
             {
@@ -541,10 +541,10 @@
                 "archived": false,
                 "id": 225260962,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T20:10:44Z",
+                "last_commit": "2026-08-27T03:43:02Z",
                 "owner": "udecode",
                 "repo": "plate",
-                "stars": 16533
+                "stars": 16535
               }
             },
             {
@@ -945,7 +945,7 @@
                 "last_commit": "2026-08-25T20:42:13Z",
                 "owner": "mdx-js",
                 "repo": "mdx",
-                "stars": 19751
+                "stars": 19752
               }
             },
             {
@@ -960,7 +960,7 @@
                 "last_commit": "2025-04-21T10:10:50Z",
                 "owner": "remarkjs",
                 "repo": "react-markdown",
-                "stars": 15864
+                "stars": 15863
               }
             },
             {
@@ -1018,7 +1018,7 @@
                 "last_commit": "2026-08-24T16:52:10Z",
                 "owner": "markedjs",
                 "repo": "marked",
-                "stars": 37093
+                "stars": 37096
               }
             },
             {
@@ -1033,7 +1033,7 @@
                 "last_commit": "2026-08-26T11:24:05Z",
                 "owner": "markdown-it",
                 "repo": "markdown-it",
-                "stars": 21850
+                "stars": 21852
               }
             },
             {
@@ -1063,7 +1063,7 @@
                 "last_commit": "2026-06-23T22:17:20Z",
                 "owner": "mixmark-io",
                 "repo": "turndown",
-                "stars": 11403
+                "stars": 11406
               }
             },
             {
@@ -1203,7 +1203,7 @@
                 "archived": false,
                 "id": 183616214,
                 "language": "Go",
-                "last_commit": "2026-08-24T07:46:04Z",
+                "last_commit": "2026-08-27T07:04:35Z",
                 "owner": "yuin",
                 "repo": "goldmark",
                 "stars": 4964
@@ -1243,7 +1243,7 @@
                 "last_commit": "2026-08-24T18:11:36Z",
                 "owner": "Python-Markdown",
                 "repo": "markdown",
-                "stars": 4239
+                "stars": 4240
               }
             },
             {
@@ -1362,7 +1362,7 @@
             "last_commit": "2026-08-25T16:41:14Z",
             "owner": "microsoft",
             "repo": "monaco-editor",
-            "stars": 46595
+            "stars": 46601
           }
         },
         {
@@ -1377,7 +1377,7 @@
             "last_commit": "2026-08-18T17:35:36Z",
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44338
+            "stars": 44335
           }
         },
         {
@@ -1422,7 +1422,7 @@
             "last_commit": "2026-08-25T13:13:18Z",
             "owner": "codesandbox",
             "repo": "codesandbox-client",
-            "stars": 13637
+            "stars": 13638
           }
         },
         {
@@ -1457,7 +1457,7 @@
                 "last_commit": "2023-07-04T16:12:06Z",
                 "owner": "benweet",
                 "repo": "stackedit",
-                "stars": 23068
+                "stars": 23070
               }
             },
             {
@@ -1546,7 +1546,7 @@
                 "last_commit": "2026-04-20T22:20:02Z",
                 "owner": "suren-atoyan",
                 "repo": "monaco-react",
-                "stars": 4735
+                "stars": 4736
               }
             },
             {
@@ -1561,7 +1561,7 @@
                 "last_commit": "2026-08-11T22:34:47Z",
                 "owner": "react-monaco-editor",
                 "repo": "react-monaco-editor",
-                "stars": 4208
+                "stars": 4209
               }
             },
             {
@@ -1598,7 +1598,7 @@
                 "last_commit": "2026-08-05T17:53:30Z",
                 "owner": "SVG-Edit",
                 "repo": "svgedit",
-                "stars": 7803
+                "stars": 7805
               }
             },
             {
@@ -1714,7 +1714,7 @@
                 "last_commit": "2026-08-27T01:44:31Z",
                 "owner": "excalidraw",
                 "repo": "excalidraw",
-                "stars": 130590
+                "stars": 130626
               }
             },
             {
@@ -1729,7 +1729,7 @@
                 "last_commit": "2026-08-26T21:53:12Z",
                 "owner": "unlayer",
                 "repo": "react-email-editor",
-                "stars": 5209
+                "stars": 5211
               }
             },
             {
@@ -1802,7 +1802,7 @@
                 "last_commit": "2026-08-05T17:53:30Z",
                 "owner": "SVG-Edit",
                 "repo": "svgedit",
-                "stars": 7803
+                "stars": 7805
               }
             }
           ]
@@ -1855,10 +1855,10 @@
                 "archived": false,
                 "id": 798599836,
                 "language": "Vue",
-                "last_commit": "2026-08-20T04:51:40Z",
+                "last_commit": "2026-08-27T05:56:45Z",
                 "owner": "umodoc",
                 "repo": "editor",
-                "stars": 1580
+                "stars": 1582
               }
             }
           ]
@@ -1881,7 +1881,7 @@
             "last_commit": "2026-02-16T07:28:31Z",
             "owner": "sindresorhus",
             "repo": "github-markdown-css",
-            "stars": 8920
+            "stars": 8921
           }
         },
         {
@@ -1904,9 +1904,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:03:56.850Z",
-    "original_repository": "liuzi6612/awesome-web-editor",
-    "original_repository_id": 142664655,
+    "last_updated": "2026-08-27T12:10:05.429Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 142664655,
+      "language": "Python",
+      "last_commit": "2026-08-26T20:09:01Z",
+      "owner": "liuzi6612",
+      "repo": "awesome-web-editor",
+      "stars": 894
+    },
     "original_repository_sha": "3c519b49766a61ff8e91099c5b202c6d7a2d4ee4",
     "enhanced_repository": "enhansome/enhansome-web-editor",
     "enhanced_repository_description": null,
