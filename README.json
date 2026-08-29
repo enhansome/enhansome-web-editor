@@ -47,7 +47,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T16:41:48Z",
-                "open_issues": 840,
+                "open_issues": 841,
                 "owner": "ueberdosis",
                 "repo": "tiptap",
                 "stars": 38192,
@@ -134,7 +134,7 @@
                 "open_issues": 881,
                 "owner": "wangeditor-team",
                 "repo": "wangEditor",
-                "stars": 18364,
+                "stars": 18362,
                 "topics": [
                   "rich-text",
                   "rich-text-html-editor",
@@ -159,10 +159,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-17T01:15:12Z",
-                "open_issues": 414,
+                "open_issues": 415,
                 "owner": "tinymce",
                 "repo": "tinymce",
-                "stars": 16284,
+                "stars": 16283,
                 "topics": [
                   "contenteditable",
                   "editor",
@@ -717,7 +717,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T16:41:48Z",
-                "open_issues": 840,
+                "open_issues": 841,
                 "owner": "ueberdosis",
                 "repo": "tiptap",
                 "stars": 38192,
@@ -903,7 +903,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T16:41:48Z",
-                "open_issues": 840,
+                "open_issues": 841,
                 "owner": "ueberdosis",
                 "repo": "tiptap",
                 "stars": 38192,
@@ -1672,7 +1672,7 @@
                 "open_issues": 20,
                 "owner": "mdx-js",
                 "repo": "mdx",
-                "stars": 19759,
+                "stars": 19758,
                 "topics": [
                   "jsx",
                   "markdown",
@@ -1793,10 +1793,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T16:52:10Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "markedjs",
                 "repo": "marked",
-                "stars": 37099,
+                "stars": 37098,
                 "topics": [
                   "commonmark",
                   "compiler",
@@ -2899,7 +2899,7 @@
                 "open_issues": 37,
                 "owner": "GrapesJS",
                 "repo": "grapesjs",
-                "stars": 26173,
+                "stars": 26172,
                 "topics": [
                   "drag-and-drop",
                   "framework",
@@ -2982,7 +2982,7 @@
                 "open_issues": 3419,
                 "owner": "excalidraw",
                 "repo": "excalidraw",
-                "stars": 130722,
+                "stars": 130726,
                 "topics": [
                   "canvas",
                   "collaboration",
@@ -3295,7 +3295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:38:57.838Z",
+    "last_updated": "2026-08-29T04:37:07.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔨  Open source WEB editor summary",
