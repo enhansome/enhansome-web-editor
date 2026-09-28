@@ -37,7 +37,7 @@
             {
               "node_type": "item",
               "title": "tiptap",
-              "description": "★ 38539 - The headless rich text editor framework for web artisans.",
+              "description": "★ 38550 - The headless rich text editor framework for web artisans.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -47,10 +47,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-25T15:09:00Z",
-                "open_issues": 827,
+                "open_issues": 829,
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38540,
+                "stars": 38556,
                 "topics": [
                   "editor",
                   "javascript",
@@ -70,7 +70,7 @@
             {
               "node_type": "item",
               "title": "Editor.js",
-              "description": "★ 31965 - A block-styled editor with clean JSON output.",
+              "description": "★ 31964 - A block-styled editor with clean JSON output.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -100,7 +100,7 @@
             {
               "node_type": "item",
               "title": "lexical",
-              "description": "★ 23898 - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+              "description": "★ 23901 - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -109,11 +109,11 @@
                 "id": 318341089,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T18:03:27Z",
-                "open_issues": 303,
+                "last_commit": "2026-09-27T23:25:35Z",
+                "open_issues": 301,
                 "owner": "facebook",
                 "repo": "lexical",
-                "stars": 23899,
+                "stars": 23901,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:09.791Z"
@@ -121,7 +121,7 @@
             {
               "node_type": "item",
               "title": "wangEditor",
-              "description": "★ 18363 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.",
+              "description": "★ 18362 - Lightweight web rich text editor, easy to configure and use. Support IE10 + browser.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -134,7 +134,7 @@
                 "open_issues": 882,
                 "owner": "wangeditor-team",
                 "repo": "wangEditor",
-                "stars": 18363,
+                "stars": 18362,
                 "topics": [
                   "rich-text",
                   "rich-text-html-editor",
@@ -179,7 +179,7 @@
             {
               "node_type": "item",
               "title": "medium-editor",
-              "description": "★ 16100 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.",
+              "description": "★ 16098 - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -192,7 +192,7 @@
                 "open_issues": 359,
                 "owner": "yabwe",
                 "repo": "medium-editor",
-                "stars": 16099,
+                "stars": 16097,
                 "topics": [
                   "contenteditable",
                   "editor",
@@ -330,7 +330,7 @@
             {
               "node_type": "item",
               "title": "canvas-editor",
-              "description": "★ 5210 - rich text editor by canvas/svg.",
+              "description": "★ 5209 - rich text editor by canvas/svg.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -339,11 +339,11 @@
                 "id": 427384949,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T05:40:43Z",
+                "last_commit": "2026-09-27T13:12:18Z",
                 "open_issues": 34,
                 "owner": "Hufe921",
                 "repo": "canvas-editor",
-                "stars": 5210,
+                "stars": 5209,
                 "topics": [
                   "ai",
                   "browser",
@@ -417,7 +417,7 @@
             {
               "node_type": "item",
               "title": "pen",
-              "description": "★ 4795 - enjoy live editing (+markdown).",
+              "description": "★ 4794 - enjoy live editing (+markdown).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -501,7 +501,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-22T13:15:53Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "JiHong88",
                 "repo": "suneditor",
                 "stars": 2016,
@@ -727,7 +727,7 @@
             {
               "node_type": "item",
               "title": "hugerte",
-              "description": "★ 604 - MIT-licensed fork of TinyMCE, the world's #1 JavaScript library for rich text editing, which switched from MIT to a GPL-or-pay license model in its latest version.",
+              "description": "★ 605 - MIT-licensed fork of TinyMCE, the world's #1 JavaScript library for rich text editing, which switched from MIT to a GPL-or-pay license model in its latest version.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -740,7 +740,7 @@
                 "open_issues": 36,
                 "owner": "hugerte",
                 "repo": "hugerte",
-                "stars": 604,
+                "stars": 605,
                 "topics": [
                   "contenteditable",
                   "editor",
@@ -789,7 +789,7 @@
             {
               "node_type": "item",
               "title": "tiptap",
-              "description": "★ 38539 - The headless rich text editor framework for web artisans.",
+              "description": "★ 38550 - The headless rich text editor framework for web artisans.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -799,10 +799,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-25T15:09:00Z",
-                "open_issues": 827,
+                "open_issues": 829,
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38540,
+                "stars": 38556,
                 "topics": [
                   "editor",
                   "javascript",
@@ -975,7 +975,7 @@
             {
               "node_type": "item",
               "title": "tiptap",
-              "description": "★ 38539 - The headless rich text editor framework for web artisans.",
+              "description": "★ 38550 - The headless rich text editor framework for web artisans.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -985,10 +985,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-25T15:09:00Z",
-                "open_issues": 827,
+                "open_issues": 829,
                 "owner": "ueberdosis",
                 "repo": "tiptap",
-                "stars": 38540,
+                "stars": 38556,
                 "topics": [
                   "editor",
                   "javascript",
@@ -1059,7 +1059,7 @@
             {
               "node_type": "item",
               "title": "plate",
-              "description": "★ 16619 - A rich-text editor powered by AI.",
+              "description": "★ 16620 - A rich-text editor powered by AI.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1068,11 +1068,11 @@
                 "id": 225260962,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T00:06:50Z",
+                "last_commit": "2026-09-28T00:05:25Z",
                 "open_issues": 18,
                 "owner": "udecode",
                 "repo": "plate",
-                "stars": 16619,
+                "stars": 16620,
                 "topics": [
                   "ai",
                   "mcp",
@@ -1101,7 +1101,7 @@
                 "open_issues": 433,
                 "owner": "zenoamaro",
                 "repo": "react-quill",
-                "stars": 7006,
+                "stars": 7005,
                 "topics": [
                   "editor",
                   "quill",
@@ -1128,7 +1128,7 @@
                 "open_issues": 409,
                 "owner": "margox",
                 "repo": "braft-editor",
-                "stars": 4582,
+                "stars": 4581,
                 "topics": [
                   "draft-js",
                   "react",
@@ -1229,7 +1229,7 @@
             {
               "node_type": "item",
               "title": "summernote",
-              "description": "★ 11844 - Super simple WYSIWYG editor, Summernote is built on jQuery.",
+              "description": "★ 11843 - Super simple WYSIWYG editor, Summernote is built on jQuery.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1242,7 +1242,7 @@
                 "open_issues": 126,
                 "owner": "summernote",
                 "repo": "summernote",
-                "stars": 11844,
+                "stars": 11843,
                 "topics": [
                   "javascript",
                   "summernote",
@@ -1393,7 +1393,7 @@
             {
               "node_type": "item",
               "title": "milkdown",
-              "description": "★ 11954 - Plugin driven WYSIWYG markdown editor framework.",
+              "description": "★ 11956 - Plugin driven WYSIWYG markdown editor framework.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1402,11 +1402,11 @@
                 "id": 345922282,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T19:48:11Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-27T14:59:41Z",
+                "open_issues": 36,
                 "owner": "Milkdown",
                 "repo": "milkdown",
-                "stars": 11954,
+                "stars": 11957,
                 "topics": [
                   "editor",
                   "gfm",
@@ -1448,7 +1448,7 @@
             {
               "node_type": "item",
               "title": "dillinger",
-              "description": "★ 8288 - The last Markdown editor, ever.",
+              "description": "★ 8287 - The last Markdown editor, ever.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1480,7 +1480,7 @@
             {
               "node_type": "item",
               "title": "pen",
-              "description": "★ 4795 - enjoy live editing (+markdown).",
+              "description": "★ 4794 - enjoy live editing (+markdown).",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1672,7 +1672,7 @@
             {
               "node_type": "item",
               "title": "milkdown",
-              "description": "★ 11954 - Plugin driven WYSIWYG markdown editor framework.",
+              "description": "★ 11956 - Plugin driven WYSIWYG markdown editor framework.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1681,11 +1681,11 @@
                 "id": 345922282,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T19:48:11Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-27T14:59:41Z",
+                "open_issues": 36,
                 "owner": "Milkdown",
                 "repo": "milkdown",
-                "stars": 11954,
+                "stars": 11957,
                 "topics": [
                   "editor",
                   "gfm",
@@ -1719,7 +1719,7 @@
                 "open_issues": 377,
                 "owner": "hinesboy",
                 "repo": "mavonEditor",
-                "stars": 6573,
+                "stars": 6572,
                 "topics": [
                   "editor",
                   "html",
@@ -1750,11 +1750,11 @@
                 "id": 115229134,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T23:45:33Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-28T00:23:09Z",
+                "open_issues": 21,
                 "owner": "mdx-js",
                 "repo": "mdx",
-                "stars": 19806,
+                "stars": 19805,
                 "topics": [
                   "jsx",
                   "markdown",
@@ -1797,7 +1797,7 @@
             {
               "node_type": "item",
               "title": "milkdown",
-              "description": "★ 11954 - Plugin driven WYSIWYG markdown editor framework.",
+              "description": "★ 11956 - Plugin driven WYSIWYG markdown editor framework.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1806,11 +1806,11 @@
                 "id": 345922282,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T19:48:11Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-27T14:59:41Z",
+                "open_issues": 36,
                 "owner": "Milkdown",
                 "repo": "milkdown",
-                "stars": 11954,
+                "stars": 11957,
                 "topics": [
                   "editor",
                   "gfm",
@@ -1840,7 +1840,7 @@
                 "id": 784065050,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T23:19:59Z",
+                "last_commit": "2026-09-27T06:30:02Z",
                 "open_issues": 1,
                 "owner": "antdigital-ai",
                 "repo": "agentic-ui",
@@ -1875,10 +1875,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T06:07:55Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "markedjs",
                 "repo": "marked",
-                "stars": 37212,
+                "stars": 37214,
                 "topics": [
                   "commonmark",
                   "compiler",
@@ -1906,7 +1906,7 @@
                 "open_issues": 10,
                 "owner": "markdown-it",
                 "repo": "markdown-it",
-                "stars": 21944,
+                "stars": 21945,
                 "topics": [
                   "commonmark",
                   "javascript",
@@ -1931,7 +1931,7 @@
                 "open_issues": 232,
                 "owner": "showdownjs",
                 "repo": "showdown",
-                "stars": 14871,
+                "stars": 14868,
                 "topics": [
                   "converter",
                   "gfm",
@@ -1988,11 +1988,11 @@
                 "id": 22355214,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T10:45:01Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-27T13:21:39Z",
+                "open_issues": 9,
                 "owner": "remarkjs",
                 "repo": "remark",
-                "stars": 9009,
+                "stars": 9008,
                 "topics": [
                   "ast",
                   "commonmark",
@@ -2038,7 +2038,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2023-07-20T14:42:01Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "susam",
                 "repo": "texme",
                 "stars": 2438,
@@ -2192,11 +2192,11 @@
                 "id": 183616214,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-21T08:49:34Z",
+                "last_commit": "2026-09-27T15:37:14Z",
                 "open_issues": 24,
                 "owner": "yuin",
                 "repo": "goldmark",
-                "stars": 5037,
+                "stars": 5041,
                 "topics": [
                   "commonmark",
                   "go",
@@ -2258,7 +2258,7 @@
                 "open_issues": 22,
                 "owner": "Python-Markdown",
                 "repo": "markdown",
-                "stars": 4252,
+                "stars": 4253,
                 "topics": [
                   "markdown",
                   "markdown-parser",
@@ -2444,7 +2444,7 @@
             "open_issues": 853,
             "owner": "microsoft",
             "repo": "monaco-editor",
-            "stars": 46812,
+            "stars": 46816,
             "topics": [
               "browser",
               "editor",
@@ -2471,7 +2471,7 @@
             "open_issues": 46,
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44451,
+            "stars": 44453,
             "topics": [
               "csv",
               "diagrams",
@@ -2602,7 +2602,7 @@
                 "open_issues": 728,
                 "owner": "benweet",
                 "repo": "stackedit",
-                "stars": 23103,
+                "stars": 23101,
                 "topics": [
                   "blogger",
                   "couchdb",
@@ -2634,11 +2634,11 @@
                 "id": 218952803,
                 "language": "TypeScript",
                 "license": "WTFPL",
-                "last_commit": "2026-09-24T04:00:00Z",
+                "last_commit": "2026-09-27T00:31:20Z",
                 "open_issues": 11,
                 "owner": "doocs",
                 "repo": "md",
-                "stars": 13376,
+                "stars": 13378,
                 "topics": [
                   "ai-bot",
                   "doocs",
@@ -2762,7 +2762,7 @@
                 "open_issues": 21,
                 "owner": "suren-atoyan",
                 "repo": "monaco-react",
-                "stars": 4745,
+                "stars": 4746,
                 "topics": [
                   "editor",
                   "monaco",
@@ -2981,7 +2981,7 @@
                 "open_issues": 45,
                 "owner": "GrapesJS",
                 "repo": "grapesjs",
-                "stars": 26275,
+                "stars": 26277,
                 "topics": [
                   "drag-and-drop",
                   "framework",
@@ -3015,7 +3015,7 @@
                 "open_issues": 305,
                 "owner": "givanz",
                 "repo": "VvvebJs",
-                "stars": 8685,
+                "stars": 8687,
                 "topics": [
                   "bootstrap",
                   "bootstrap5",
@@ -3060,11 +3060,11 @@
                 "id": 231283452,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-26T22:57:36Z",
-                "open_issues": 3378,
+                "last_commit": "2026-09-27T20:53:18Z",
+                "open_issues": 3268,
                 "owner": "excalidraw",
                 "repo": "excalidraw",
-                "stars": 133026,
+                "stars": 133104,
                 "topics": [
                   "canvas",
                   "collaboration",
@@ -3302,7 +3302,7 @@
                 "open_issues": 1,
                 "owner": "umodoc",
                 "repo": "editor",
-                "stars": 1604,
+                "stars": 1607,
                 "topics": [
                   "docs-editor",
                   "document-editor",
@@ -3365,7 +3365,7 @@
             "open_issues": 8,
             "owner": "younghz",
             "repo": "Markdown",
-            "stars": 4036,
+            "stars": 4037,
             "topics": [
               "markdown"
             ]
@@ -3377,7 +3377,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:26:44.993Z",
+    "last_updated": "2026-09-28T00:32:50.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔨  Open source WEB editor summary",
@@ -3385,7 +3385,7 @@
       "id": 142664655,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-26T21:15:52Z",
+      "last_commit": "2026-09-27T21:25:27Z",
       "open_issues": 0,
       "owner": "liuzi6612",
       "repo": "awesome-web-editor",
@@ -3411,7 +3411,7 @@
         "wysiwyg-js-editor"
       ]
     },
-    "original_repository_sha": "33a7f1f1ce92e76a4967a60f643307b7d6240d04",
+    "original_repository_sha": "12fed03c6cc6154a75f332c490641f6139b7bfd6",
     "enhanced_repository": "enhansome/enhansome-web-editor",
     "enhanced_repository_description": null,
     "title": "Awesome web editor with stars"
